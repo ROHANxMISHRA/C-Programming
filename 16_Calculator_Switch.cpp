@@ -9,6 +9,7 @@ int main() {
   scanf("%c", &op);
   printf("\n Enter two operands: ");
   scanf("%lf %lf", &first, &second);
+  
 
   switch (op) {
     case '+':
